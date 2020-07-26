@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CoherentRenderingPlugin.cpp.obj": [
+			"CoherentRenderingFileManipulator.cpp.obj",
+			"CoherentRenderingPlugin.cpp.obj",
+			"CoherentRenderingSettings.cpp.obj",
+			"CohIndexBuffer.cpp.obj",
+			"CohRenoirBackend.cpp.obj",
+			"CohRenoirShaders.cpp.obj",
+			"CohRHIClickThroughShader.cpp.obj",
+			"CohStencilBuffer.cpp.obj",
+			"CohTexture.cpp.obj",
+			"CohVertexBuffer.cpp.obj"
+		],
+		"Module.CoherentRenderingPlugin.gen.cpp.obj": [
+			"CoherentRenderingPlugin.init.gen.cpp.obj",
+			"CoherentRenderingSettings.gen.cpp.obj",
+			"CohTexture.gen.cpp.obj"
+		]
+	}
+}

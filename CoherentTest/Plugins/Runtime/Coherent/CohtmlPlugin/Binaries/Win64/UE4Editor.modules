@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"CohtmlEditorPlugin": "UE4Editor-CohtmlEditorPlugin-0033.dll",
+		"CohtmlPlugin": "UE4Editor-CohtmlPlugin-0033.dll"
+	}
+}

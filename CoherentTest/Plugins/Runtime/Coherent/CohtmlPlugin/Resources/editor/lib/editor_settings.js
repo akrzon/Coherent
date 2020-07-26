@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={environment:{GT:"GT",Hummingbird:"Hummingbird"},defaultPreferences:{couiEnvironment:"GT",timeline:{filterTimelineWidgets:!0}}};

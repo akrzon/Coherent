@@ -1,0 +1,17 @@
+#ifdef __UE4_416_SUPPORT__
+#include "Common.usf"
+#define COH_IS_UE4_CROSSCOMPILING COMPILER_GLSL
+#else
+#include "UniformBuffers/CohBackwardsCompatibility.ush"
+#define COH_IS_UE4_CROSSCOMPILING COMPILER_HLSLCC
+#endif
+
+struct VertexIn
+{
+	float4 Position : SV_POSITION;
+};
+
+float4 Main(VertexIn input) : SV_Target0
+{
+	return float4(0, 0, 0, 0);
+}

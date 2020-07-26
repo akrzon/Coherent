@@ -1,0 +1,274 @@
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CoherentRenderingFileManipulator.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CoherentRenderingFileManipulator.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirCore/CoherentRenderingLibrary.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirCore/Logging/ILogHandler.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirCore/Logging/LogSeverity.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CoherentRenderingPlugin.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CoherentRenderingPlugin.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CohRenoirBackend.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohHelpers.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohTexture.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\RenderCore.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4\Inc\CoherentRenderingPlugin\CohTexture.generated.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohStencilBuffer.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Debugging/SlateDebugging.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/Reply.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Types/SlateEnums.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\SlateEnums.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/ReplyBase.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/Events.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericAccessibleInterfaces.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Layout/Geometry.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Math/TransformCalculus2D.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Math/TransformCalculus.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Layout/SlateRect.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Layout/Margin.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\Margin.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Layout/SlateRotatedRect.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Rendering/SlateLayoutTransform.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Rendering/SlateRenderTransform.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Layout/PaintGeometry.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\Geometry.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\Events.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/DragAndDrop.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/CursorReply.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\Input/DragAndDrop.inl
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\SlateDebugging.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\TextureResource.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Serialization/BulkData.h
+d:\epicgames\ue_4.24\engine\source\runtime\coreuobject\public\serialization\BulkData2.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/TextureDefines.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\TextureDefines.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\UnrealClient.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\SlateColor.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\NavigationReply.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\RenderingCommon.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\Clipping.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\FlowDirection.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetProxy.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\CompositeFont.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\SlateFontInfo.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\FontCache.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\SlateBrush.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\rendering\DrawElementPayloads.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\rendering\SlateRenderBatch.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\rendering\ElementBatcher.h
+d:\epicgames\ue_4.24\engine\source\runtime\slatecore\public\widgets\InvalidateWidgetReason.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\HitProxies.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\VirtualTexturing.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Texture.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\MaterialShared.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\ShaderParameterMacros.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\ShaderParameterMetadata.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\Shader.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\ShaderParameters.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\ShaderCore.h
+d:\epicgames\ue_4.24\engine\source\runtime\rendercore\public\ShaderPermutation.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/RenderingObjectVersion.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\VertexFactory.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\SceneTypes.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SceneTypes.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\StaticParameterSet.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/FortniteMainBranchObjectVersion.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\UObject/ReleaseObjectVersion.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialLayersFunctions.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\AssetRegistry\Public\AssetData.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectRedirector.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Misc/PackageName.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerLoad.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+d:\epicgames\ue_4.24\engine\source\runtime\assetregistry\public\AssetDataTagMap.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\AssetRegistry\AssetData.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialLayersFunctions.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticParameterSet.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\MaterialSceneTextureId.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialSceneTextureId.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/StreamableRenderAsset.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StreamableRenderAsset.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Texture.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CohRenoirShaders.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+d:\epicgames\ue_4.24\engine\source\runtime\projects\public\ModuleDescriptor.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+d:\epicgames\ue_4.24\engine\source\runtime\projects\public\CustomBuildSteps.h
+d:\epicgames\ue_4.24\engine\source\runtime\projects\public\LocalizationDescriptor.h
+d:\epicgames\ue_4.24\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Classes\CoherentRenderingSettings.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4\Inc\CoherentRenderingPlugin\CoherentRenderingSettings.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CoherentRenderingSettings.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohIndexBuffer.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CohIndexBuffer.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohRenoirBackend.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RHI\Public\RHIStaticStates.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ScopedEvent.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\ClearQuad.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CohVertexBuffer.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\SceneUtils.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/RealtimeGPUProfiler.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\coherentrenderingplugin\source\coherentrenderingplugin\private\CohRHIClickThroughShader.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohRenoirShaders.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohRHIClickThroughShader.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohStencilBuffer.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohTexture.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Texture2D.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\RenderAssetUpdate.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Texture2D.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Source/CoherentRenderingPlugin/Private/CohVertexBuffer.cpp

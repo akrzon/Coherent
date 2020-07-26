@@ -1,0 +1,403 @@
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlAssetReferencer.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlAssetReferencer.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlAssetReferencer.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/Material.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\MaterialExpressionIO.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialFunctionCall.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpression.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpression.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionMaterialFunctionCall.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionMaterialAttributeLayers.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionMaterialAttributeLayers.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunction.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialFunctionInterface.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSampleParameter.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionFontSample.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionFontSample.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionFontSampleParameter.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionParameter.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionParameter.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSampleParameter.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureSample.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialExpressionTextureBase.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionTextureBase.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionTextureSample.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialExpressionTextureSampleParameter.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialFunctionInterface.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialFunction.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Material.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/ConstructorHelpers.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Info.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Info.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ServerStatReplicator.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreOnline.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerController.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Controller.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Controller.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/OnlineReplStructs.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\OnlineReplStructs.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerMuteList.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerMuteList.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Camera/PlayerCameraManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Camera/CameraTypes.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CameraTypes.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Camera/CameraShake.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\CameraShake.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerCameraManager.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/InputComponent.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Slate\InputChord.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\InputComponent.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/ForceFeedbackEffect.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ForceFeedbackEffect.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/IInputInterface.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerController.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameModeBase.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlAtlasMappingData.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlAtlasMappingData.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlAtlasMappingData.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlBaseComponent.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlSystemHolder.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlGamepadProvider.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/Localization/LocalizationManager.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlGestureApplicationPolicy.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/IGestureListener.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureManager.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureMemoryTypes.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlHelpers.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlInputActor.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\classes\SCohtmlInputForward.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Docking/SDockTab.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/SlateIcon.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Docking/WorkspaceItem.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Application/IPlatformTextField.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Input/SVirtualJoystick.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\SCohtmlInputForward.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/SWeakWidget.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlInputActor.generated.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlInputHelpers.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ProfilingHelpers.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/WorldSettings.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DamageType.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DamageType.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/AudioVolume.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Brush.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Brush.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Volume.generated.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\public\Audio.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundClass.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundEffectSource.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundEffectSource.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmixSend.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundSubmixSend.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBusSend.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundSourceBusSend.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AudioVolume.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\WorldSettings.generated.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlAudioWrapper.inl
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundWave.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundBase.h
+d:\epicgames\ue_4.24\engine\source\runtime\engine\classes\sound\SoundConcurrency.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundConcurrency.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundBase.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/SoundGroups.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundGroups.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\AudioMixerCore\Public\AudioMixerTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/ConfigCacheIni.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\AudioPlatformConfiguration\Public\AudioCompressionSettings.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\AudioPlatformConfiguration\AudioCompressionSettings.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\ContentStreaming.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundWave.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\SoundWaveProcedural.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\AudioComponent.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlBlueprintFunctionLibrary.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlBlueprintFunctionLibrary.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintFunctionLibrary.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BlueprintFunctionLibrary.generated.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlBlueprintFunctionLibrary.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlComponent.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceDynamic.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstance.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Materials/MaterialInstanceBasePropertyOverrides.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialInstance.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialInstanceDynamic.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlConsoleCommands.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlConsoleCommands.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlWidget.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime/UMG/Public/Components/Widget.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Visual.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\SlateWrapperTypes.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetTransform.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\WidgetNavigation.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\UMG\Widget.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Player.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Player.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\Subsystems/LocalPlayerSubsystem.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\LocalPlayerSubsystem.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\LocalPlayer.generated.h
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\classes\SCohtmlWidget.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlIMEManager.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ITextInputMethodSystem.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlWidget.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlDataBinding.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlDirectoryWatcher.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlDirectoryWatcher.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlEditorShaders.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlEditorShaders.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\GlobalShader.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\RenderCore\Public\ShaderParameterUtils.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlEventHelpers.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlFVectorBinder.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlFIntVectorBinder.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlFColorBinder.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/Binding/Color.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlFileHandler.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlFileHandler.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/Library.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/MemoryTags.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/Logging/ILogHandler.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/Logging/LogSeverity.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohHelpers.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/Textures.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/PipelineState.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohTexture.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4\Inc\CoherentRenderingPlugin\CohTexture.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Online\SSL\Public\SslModule.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+d:\epicgames\ue_4.24\engine\source\runtime\online\http\public\Interfaces/IHttpRequest.h
+d:\epicgames\ue_4.24\engine\source\runtime\online\http\public\Interfaces/IHttpBase.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpResponse.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlGameHUD.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Classes\CohtmlGameHUD.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4\Inc\CohtmlPlugin\CohtmlGameHUD.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\FontImportOptions.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\SlateCore\FontProviderInterface.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Font.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Canvas.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlGamepadProvider.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlGestureApplicationPolicy.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/PanRecognizer.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureRecognizerBase.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureRecognizerStates.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureType.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/FlingRecognizer.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Private\Gestures/GestureTapRecognizer.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlHelpers.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlHUD.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlIMEManager.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlTextInputMethodContextGeneric.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CohtmlPlugin\Source\CohtmlPlugin\Public\CohtmlTextInputMethodContextWin8AndAbove.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlInputActor.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlInputBindings.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\TimerManager.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlInputHelpers.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlJSEvent.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlLocalizationManager.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlLocalizationManager.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlMeshData.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\Model.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/StaticMesh.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_CollisionDataProvider.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\PhysicsCore\Public\Interface_CollisionDataProviderCore.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Interface_CollisionDataProvider.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\MeshDescription\Public\MeshTypes.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\MeshDescription\MeshTypes.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\StaticMesh.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlPlugin.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlPlugin.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\ICoherentRenderingPlugin.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/RendererBackend.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/ConstantBuffers.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/BackendCommands.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Renoir\include\RenoirBackend/ClickThroughProvider.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/CohtmlLicense.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlRenderWrapper.cpp
+D:\Repos-Ania\CoherentSample\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Source\CoherentRenderingPlugin\Public\CohStencilBuffer.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlSettings.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlSystem.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlSystemHolder.cpp
+d:\repos-ania\coherentsample\plugins\runtime\coherent\cohtmlplugin\source\cohtmlplugin\private\CohtmlTextTransformationManager.h
+D:\EpicGames\UE_4.24\Engine\Source\ThirdParty\Cohtml\include\cohtml/TextTransformation.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/SlowTask.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlTextInputMethodContextGeneric.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlTextInputMethodContextWin8AndAbove.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlTextTransformationManager.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlUTypeBinder.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlVirtualKeyboardEntry.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/CohtmlWidget.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/Gestures/FlingRecognizer.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/Gestures/GestureManager.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/Gestures/GestureRecognizerBase.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/Gestures/GestureTapRecognizer.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/Gestures/PanRecognizer.cpp
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/SCohtmlInputForward.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/UserInterfaceSettings.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/DeveloperSettings.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DeveloperSettings.generated.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\UserInterfaceSettings.generated.h
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/RendererSettings.h
+D:\EpicGames\UE_4.24\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RendererSettings.generated.h
+D:/Repos-Ania/CoherentSample/Plugins/Runtime/Coherent/CohtmlPlugin/Source/CohtmlPlugin/Private/SCohtmlWidget.cpp
+D:\EpicGames\UE_4.24\Engine\Source\Runtime\Slate\Public\SlateMaterialBrush.h

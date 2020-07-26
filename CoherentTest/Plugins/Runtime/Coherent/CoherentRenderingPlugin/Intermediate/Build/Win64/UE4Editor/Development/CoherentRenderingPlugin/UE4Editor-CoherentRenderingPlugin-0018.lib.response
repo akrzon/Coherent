@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CoherentRenderingPlugin-0018.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoherentRenderingPlugin\PCH.CoherentRenderingPlugin.h.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoherentRenderingPlugin\Module.CoherentRenderingPlugin.cpp.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoherentRenderingPlugin\Module.CoherentRenderingPlugin.gen.cpp.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoherentRenderingPlugin\Default.rc2.res"
+/OUT:"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CoherentRenderingPlugin\Intermediate\Build\Win64\UE4Editor\Development\CoherentRenderingPlugin\UE4Editor-CoherentRenderingPlugin-0018.lib"
+/INCLUDE:IMPLEMENT_MODULE_CoherentRenderingPlugin

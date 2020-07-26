@@ -1,0 +1,17 @@
+{
+	"Category": "User Interface",
+	"FileVersion": 1,
+	"Modules": [
+		{
+			"Type": "Runtime",
+			"Name": "CoherentRenderingPlugin",
+			"LoadingPhase": "PostConfigInit"
+		}
+	],
+	"CreatedBy": "Coherent Labs, AD",
+	"Version": 11405,
+	"VersionName": "1.14.0.5",
+	"FriendlyName": "Coherent Rendering",
+	"CreatedByURL": "http://coherent-labs.com",
+	"Description": "Coherent Rendering Plugin"
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CohtmlPlugin-0024.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4Editor\Development\CohtmlPlugin\PCH.CohtmlPlugin.h.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4Editor\Development\CohtmlPlugin\Module.CohtmlPlugin.cpp.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4Editor\Development\CohtmlPlugin\Module.CohtmlPlugin.gen.cpp.obj"
+"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4Editor\Development\CohtmlPlugin\Default.rc2.res"
+/OUT:"E:\Ania - on working\Coherent\CoherentTest\Plugins\Runtime\Coherent\CohtmlPlugin\Intermediate\Build\Win64\UE4Editor\Development\CohtmlPlugin\UE4Editor-CohtmlPlugin-0024.lib"
+/INCLUDE:IMPLEMENT_MODULE_CohtmlPlugin

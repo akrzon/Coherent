@@ -1,0 +1,32 @@
+#ifdef __UE4_416_SUPPORT__
+#include "Common.usf"
+#define COH_IS_UE4_CROSSCOMPILING COMPILER_GLSL
+#else
+#include "UniformBuffers/CohBackwardsCompatibility.ush"
+#define COH_IS_UE4_CROSSCOMPILING COMPILER_HLSLCC
+#endif
+
+struct VertexIn
+{
+	float2 Position : ATTRIBUTE0;
+};
+
+struct VertexOut
+{
+	float4 Position : SV_POSITION;
+};
+
+float ThresholdParam;
+float2 TexCoordsParam;
+Texture2D TextureParam;
+SamplerState TextureSamplerParam;
+
+void Main(in VertexIn input, out VertexOut output)
+{
+	float4 result = float4(input.Position, 0, 1);
+	float Alpha = TextureParam.SampleLevel(TextureSamplerParam, TexCoordsParam, 0).a;
+	result.z = (Alpha > ThresholdParam);
+	// If occlusion query draws any pixels, then the pixel is NOT on the UI
+
+	output.Position = result;
+}

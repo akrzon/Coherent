@@ -1,0 +1,8 @@
+#ifndef __UE4_416_SUPPORT__
+// This header exists in this seemlingly arbitrary directory to provide backwards compatibility
+// for old ue versions. Prior to 4.16, UE4's shader compiler tries to load all #include-d shader files
+// even if those are hidden by preprocessor directives. In 4.17 we need to include Platform.ush but
+// in pre-4.17 this would fail as UE4 fails to find Platform.ush. However, if the file is in a directory
+// named UniformBuffers it is ignored so this is why this file is here.
+#include "/Engine/Public/Platform.ush"
+#endif

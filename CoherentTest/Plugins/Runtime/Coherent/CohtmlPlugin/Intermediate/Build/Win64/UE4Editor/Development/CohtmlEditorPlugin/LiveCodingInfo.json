@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CohtmlEditorPlugin.cpp.obj": [
+			"CohtmlAtlasAssetTypeActions.cpp.obj",
+			"CohtmlAtlasBuilder.cpp.obj",
+			"CohtmlAtlasDirectoryWatcher.cpp.obj",
+			"CohtmlAtlasManager.cpp.obj",
+			"CohtmlEditorCommands.cpp.obj",
+			"CohtmlEditorDirectoryWatcher.cpp.obj",
+			"CohtmlEditorPaths.cpp.obj",
+			"CohtmlEditorPlugin.cpp.obj",
+			"CohtmlTriggerEventDetails.cpp.obj",
+			"K2Node_CohtmlTriggerEventOneOff.cpp.obj"
+		],
+		"Module.CohtmlEditorPlugin.gen.cpp.obj": [
+			"CohtmlEditorPlugin.init.gen.cpp.obj",
+			"K2Node_CohtmlTriggerEventOneOff.gen.cpp.obj"
+		]
+	}
+}

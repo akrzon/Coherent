@@ -1,0 +1,34 @@
+{
+    "Category": "User Interface",
+    "FileVersion": 1,
+    "CanContainContent": true,
+    "Modules": [
+        {
+            "Type": "Runtime",
+            "Name": "CohtmlPlugin",
+            "LoadingPhase": "PostConfigInit"
+        },
+        {
+            "Type": "Editor",
+            "Name": "CohtmlEditorPlugin",
+            "LoadingPhase": "Default"
+        }
+    ],
+    "PostBuildSteps": {
+        "Win64": [
+            "\"$(PluginDir)\\Resources\\postbuild\\win64.bat\" \"$(EngineDir)\" \"$(ProjectDir)\" \"$(PluginDir)\" \"$(TargetPlatform)\""
+        ]
+    },
+    "Version": 1825,
+    "VersionName": "1.8.2.5",
+    "CreatedBy": "Coherent Labs, AD",
+    "Plugins": [
+        {
+            "Enabled": true,
+            "Name": "CoherentRenderingPlugin"
+        }
+    ],
+    "FriendlyName": "Prysm",
+    "CreatedByURL": "http://coherent-labs.com",
+    "Description": "Prysm - HTML5-based User Interface middleware"
+}

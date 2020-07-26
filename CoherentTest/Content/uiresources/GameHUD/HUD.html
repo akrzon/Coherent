@@ -1,0 +1,62 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/HUD.css">
+</head>
+<body>
+  <div class="layoutStyle201 positionStyle221 Movieclips-NPCWrapper" data-bind-for="actor:{{NPCInfoModel.Actors}}" cl-labels-key="Movieclips-NPCWrapper">
+    <div class="layoutStyle195 positionStyle5 Movieclips-Overhead" cl-labels-key="Movieclips-Overhead">
+      <div class="layoutStyle187 positionStyle5 overhead_bg Movieclips-OverheadBg" data-bind-style-left="({{actor.left}}) + 'px'" data-bind-style-top="({{actor.top}}) + 'px'" cl-labels-key="Movieclips-OverheadBg">
+        <div class="layoutStyle178 imageStyle10 positionStyle176"></div>
+      </div>
+      <div class="layoutStyle184 positionStyle189 Overhead_text Movieclips-Overhead_txt" data-bind-style-left="({{actor.left}}) + 'px'" data-bind-style-top="({{actor.top}}) + 'px'" cl-labels-key="Movieclips-Overhead_txt">
+        <div class="visualStyle172 layoutStyle170 positionStyle5" data-bind-value="{{actor.label}}">Test_Name</div>
+      </div>
+    </div>
+  </div>
+  <div class="layoutStyle167 positionStyle205 Movieclips-Slider" cl-labels-key="Movieclips-Slider">
+    <div class="layoutStyle151 positionStyle163 Movieclips-SliderBg" cl-labels-key="Movieclips-SliderBg">
+      <div class="layoutStyle129 imageStyle130 positionStyle127"></div>
+    </div>
+    <div class="layoutStyle148 positionStyle230 Movieclips-SliderThumb" cl-labels-key="Movieclips-SliderThumb">
+      <div class="layoutStyle122 imageStyle123 positionStyle5" data-bind-style-left="({{NPCInfoModel.NPCGenerateCount}}*58) + '%'"></div>
+    </div>
+    <div class="layoutStyle145 imageStyle130 positionStyle232"></div>
+    <div class="layoutStyle141 positionStyle157 NPCCount_obj Movieclips-NPCCount" cl-labels-key="Movieclips-NPCCount">
+      <div class="visualStyle114 layoutStyle112 positionStyle5" data-bind-value="{{NPCInfoModel.NPCGenerateCount}}">0</div>
+    </div>
+    <div class="layoutStyle138 positionStyle155 Movieclips-LeftBtn" cl-labels-key="Movieclips-LeftBtn">
+      <div class="animationStyle237 layoutStyle88 positionStyle5 Movieclips-LeftArrow" cl-labels-key="Movieclips-LeftArrow">
+        <div class="layoutStyle98 imageStyle99 positionStyle96"></div>
+      </div>
+    </div>
+    <div class="layoutStyle135 positionStyle153 Movieclips-RightBtn" cl-labels-key="Movieclips-RightBtn">
+      <div class="layoutStyle88 positionStyle5 Movieclips-RightArrow" cl-labels-key="Movieclips-RightArrow">
+        <div class="layoutStyle82 imageStyle83 positionStyle80"></div>
+      </div>
+    </div>
+  </div>
+  <div class="layoutStyle77 positionStyle203 Movieclips-ButtonsWrapper" cl-labels-key="Movieclips-ButtonsWrapper">
+    <div class="visualStyle6 layoutStyle66 positionStyle73">Current</div>
+    <div class="layoutStyle63 positionStyle244 GeneratedNPCCount_obj Movieclips-GeneratedNPCCount" cl-labels-key="Movieclips-GeneratedNPCCount">
+      <div class="visualStyle52 layoutStyle50 positionStyle5" data-bind-value="{{NPCInfoModel.CurrentNPCs}}">0</div>
+    </div>
+    <div class="layoutStyle60 positionStyle5 Movieclips-GenerateButton" cl-labels-key="Movieclips-GenerateButton">
+      <div class="animationStyle214 layoutStyle9 imageStyle10 positionStyle5"></div>
+      <div class="animationStyle215 layoutStyle9 imageStyle14 positionStyle5"></div>
+      <div class="animationStyle216 layoutStyle9 imageStyle18 positionStyle5"></div>
+      <div class="animationStyle213 visualStyle6 layoutStyle4 positionStyle21">Generate</div>
+    </div>
+    <div class="layoutStyle57 positionStyle69 Movieclips-DestroyButton" cl-labels-key="Movieclips-DestroyButton">
+      <div class="animationStyle210 layoutStyle9 imageStyle10 positionStyle5"></div>
+      <div class="animationStyle211 layoutStyle9 imageStyle14 positionStyle5"></div>
+      <div class="animationStyle212 layoutStyle9 imageStyle18 positionStyle5"></div>
+      <div class="animationStyle213 visualStyle6 layoutStyle4 positionStyle21">Destroy</div>
+    </div>
+  </div>
+<script src="js/cohtml.js"></script>
+<script src="js/CLAnimations_API.js"></script>
+<script src="js/CLAnimations_HUD_GameHUD.js"></script>
+<script src="js/CLEvents_Symbols_HUD_GameHUD.js"></script>
+<script src="js/NPCInfoModel.js"></script>
+</body>
+</html>

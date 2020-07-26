@@ -1,0 +1,1 @@
+#include "E:/Ania - on working/Coherent/CoherentTest/Plugins/Runtime/Coherent/CoherentRenderingPlugin/Intermediate/Build/Win64/UE4Editor/Development/CoherentRenderingPlugin/PCH.CoherentRenderingPlugin.h"

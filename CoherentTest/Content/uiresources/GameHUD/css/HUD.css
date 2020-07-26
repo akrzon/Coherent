@@ -1,0 +1,514 @@
+body {
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background-color: rgba(255,255,255,0.000);
+}
+
+textarea,
+input {
+	border: none;
+}
+
+.layoutStyle201 {
+	width: 23.426vh;
+	height: 4.109vh;
+	transform-origin: 88.859vh 47.979vh;
+	z-index: 1;
+	display: block;
+}
+.positionStyle221 {
+	position: absolute;
+	left: 0.017%;
+	top: 0.035%;
+}
+.layoutStyle195 {
+	width: 23.426vh;
+	height: 4.109vh;
+	transform-origin: 0.000vh 0.000vh;
+	z-index: 1;
+	display: block;
+}
+.positionStyle5 {
+	position: absolute;
+	left: 0.000vh;
+	top: 0.000vh;
+}
+.layoutStyle187 {
+	width: 23.426vh;
+	height: 4.109vh;
+	transform-origin: 11.713vh 2.053vh;
+	z-index: 1;
+	display: block;
+}
+.layoutStyle178 {
+	width: 33.519vh;
+	height: 5.880vh;
+	transform-origin: 16.780vh 2.944vh;
+	z-index: 1;
+	transform: scale(0.699, 0.699);
+}
+.imageStyle10{
+	background-image: url("../img/Assets_MenuBtnBg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle176 {
+	position: absolute;
+	left: -5.053vh;
+	top: -0.887vh;
+}
+.layoutStyle184 {
+	width: 21.725vh;
+	height: 2.137vh;
+	transform-origin: 14.750vh 1.035vh;
+	z-index: 2;
+	display: block;
+}
+.positionStyle189 {
+	position: absolute;
+	left: 0.072vh;
+	top: 0.875vh;
+}
+.visualStyle172 {
+	color:rgba(0,0,0,1.000);
+	font-size: 1.667vh;
+	font-family: "droidsansregular";
+	font-style: normal;
+	text-align: right;
+	white-space: pre;
+	user-select: none;
+}
+.layoutStyle170 {
+	width: 21.725vh;
+	height: 2.137vh;
+	transform-origin: 10.861vh 1.067vh;
+	z-index: 1;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.layoutStyle167 {
+	width: 151.273vh;
+	height: 12.616vh;
+	transform-origin: 75.650vh 8.891vh;
+	z-index: 2;
+	display: block;
+}
+.positionStyle205 {
+	position: absolute;
+	left: 12.194vh;
+	top: 82.949vh;
+}
+.layoutStyle151 {
+	width: 136.106vh;
+	height: 7.569vh;
+	transform-origin: 68.053vh 3.785vh;
+	z-index: 1;
+	display: block;
+}
+.positionStyle163 {
+	position: absolute;
+	left: 7.593vh;
+	top: 5.046vh;
+}
+.layoutStyle129 {
+	width: 54.444vh;
+	height: 5.046vh;
+	transform-origin: 27.222vh 2.562vh;
+	z-index: 1;
+	transform: scale(2.500, 1.500);
+}
+.imageStyle130{
+	background-image: url("../img/Assets_SliderBg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle127 {
+	position: absolute;
+	left: 40.831vh;
+	top: 1.281vh;
+}
+.layoutStyle148 {
+	width: 1.481vh;
+	height: 5.046vh;
+	transform-origin: 0.738vh 2.521vh;
+	z-index: 2;
+	transform: scale(1.500, 1.500);
+	display: block;
+}
+.positionStyle230 {
+	position: absolute;
+	left: 9.538vh;
+	top: 6.307vh;
+}
+.layoutStyle122 {
+	width: 1.481vh;
+	height: 5.046vh;
+	transform-origin: 0.741vh 2.523vh;
+	z-index: 1;
+}
+.imageStyle123{
+	background-image: url("../img/Assets_SliderThumb.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.layoutStyle145 {
+	width: 54.444vh;
+	height: 5.046vh;
+	transform-origin: 27.292vh 2.569vh;
+	z-index: 3;
+	transform: scale(0.200, 1.000);
+}
+.positionStyle232 {
+	position: absolute;
+	left: 48.999vh;
+	top: 0.000vh;
+}
+.layoutStyle141 {
+	width: 9.856vh;
+	height: 3.222vh;
+	transform-origin: 4.928vh 1.611vh;
+	z-index: 4;
+	display: block;
+}
+.positionStyle157 {
+	position: absolute;
+	left: 71.222vh;
+	top: 0.778vh;
+}
+.visualStyle114 {
+	color:rgba(255,255,255,1.000);
+	font-size: 2.593vh;
+	font-family: "droidsansbold";
+	font-style: normal;
+	text-align: center;
+	white-space: pre;
+	user-select: none;
+}
+.layoutStyle112 {
+	width: 9.856vh;
+	height: 3.222vh;
+	transform-origin: 4.928vh 1.611vh;
+	z-index: 1;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.layoutStyle138 {
+	width: 7.569vh;
+	height: 7.569vh;
+	transform-origin: 3.785vh 3.785vh;
+	z-index: 5;
+	display: block;
+}
+.positionStyle155 {
+	position: absolute;
+	left: 0.000vh;
+	top: 5.046vh;
+}
+.animationStyle237 {
+	animation-name: animationFrames238;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-fill-mode: forwards;
+}
+.layoutStyle88 {
+	width: 7.569vh;
+	height: 7.569vh;
+	transform-origin: 3.785vh 3.785vh;
+	z-index: 1;
+	display: block;
+}
+.layoutStyle98 {
+	width: 5.046vh;
+	height: 5.046vh;
+	transform-origin: 2.546vh 2.516vh;
+	z-index: 1;
+	transform: scale(1.500, 1.500);
+}
+.imageStyle99{
+	background-image: url("../img/Assets_BtnLeft.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle96 {
+	position: absolute;
+	left: 1.273vh;
+	top: 1.258vh;
+}
+.layoutStyle135 {
+	width: 7.569vh;
+	height: 7.569vh;
+	transform-origin: 3.785vh 3.785vh;
+	z-index: 6;
+	display: block;
+}
+.positionStyle153 {
+	position: absolute;
+	left: 143.704vh;
+	top: 5.046vh;
+}
+.layoutStyle82 {
+	width: 5.046vh;
+	height: 5.046vh;
+	transform-origin: 2.512vh 2.516vh;
+	z-index: 1;
+	transform: scale(1.500, 1.500);
+}
+.imageStyle83{
+	background-image: url("../img/Assets_BtnRight.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle80 {
+	position: absolute;
+	left: 1.256vh;
+	top: 1.258vh;
+}
+.layoutStyle77 {
+	width: 33.519vh;
+	height: 18.042vh;
+	transform-origin: 16.759vh 6.500vh;
+	z-index: 3;
+	display: block;
+}
+.positionStyle203 {
+	position: absolute;
+	left: 3.294vh;
+	top: 3.111vh;
+}
+.visualStyle6 {
+	color:rgba(255,255,255,1.000);
+	font-size: 2.593vh;
+	font-family: "droidsansbold";
+	font-style: normal;
+	text-align: right;
+	white-space: pre;
+	user-select: none;
+}
+.layoutStyle66 {
+	width: 18.146vh;
+	height: 3.222vh;
+	transform-origin: 9.072vh 1.611vh;
+	z-index: 1;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.positionStyle73 {
+	position: absolute;
+	left: 2.755vh;
+	top: 14.819vh;
+}
+.layoutStyle63 {
+	width: 9.870vh;
+	height: 3.222vh;
+	transform-origin: 4.935vh 1.611vh;
+	z-index: 2;
+	display: block;
+}
+.positionStyle244 {
+	position: absolute;
+	left: 22.322vh;
+	top: 14.819vh;
+}
+.visualStyle52 {
+	color:rgba(255,255,255,1.000);
+	font-size: 2.593vh;
+	font-family: "droidsansbold";
+	font-style: normal;
+	white-space: pre;
+	user-select: none;
+}
+.layoutStyle50 {
+	width: 9.870vh;
+	height: 3.222vh;
+	transform-origin: 4.935vh 1.611vh;
+	z-index: 1;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.layoutStyle60 {
+	width: 33.518vh;
+	height: 5.880vh;
+	transform-origin: 16.759vh 2.928vh;
+	z-index: 3;
+	display: block;
+}
+.animationStyle214 {
+	animation-name: animationFrames259;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.layoutStyle9 {
+	width: 33.519vh;
+	height: 5.880vh;
+	transform-origin: 16.759vh 2.919vh;
+	z-index: 1;
+}
+.animationStyle215 {
+	animation-name: animationFrames260;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.imageStyle14{
+	background-image: url("../img/Assets_MenuBtnBg_h.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.animationStyle216 {
+	animation-name: animationFrames261;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.imageStyle18{
+	background-image: url("../img/Assets_MenuBtnBg_p.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.animationStyle213 {
+}
+.layoutStyle4 {
+	width: 18.146vh;
+	height: 3.222vh;
+	transform-origin: 9.072vh 1.611vh;
+	z-index: 2;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+.positionStyle21 {
+	position: absolute;
+	left: 11.444vh;
+	top: 1.093vh;
+}
+.layoutStyle57 {
+	width: 33.518vh;
+	height: 5.880vh;
+	transform-origin: 16.759vh 2.940vh;
+	z-index: 4;
+	display: block;
+}
+.positionStyle69 {
+	position: absolute;
+	left: 0.000vh;
+	top: 7.123vh;
+}
+.animationStyle210 {
+	animation-name: animationFrames259;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.animationStyle211 {
+	animation-name: animationFrames260;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.animationStyle212 {
+	animation-name: animationFrames261;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+@font-face {
+	src: url("../fonts/droidsans_bold_normal.ttf");
+	font-family: "droidsansbold";
+	font-style: normal;
+}
+@font-face {
+	src: url("../fonts/droidsans_regular_normal.ttf");
+	font-family: "droidsansregular";
+	font-style: normal;
+}
+@keyframes animationFrames238 {
+	0.000% {
+		filter: coh-color-matrix(1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+	33.332% {
+		filter: coh-color-matrix(1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+	33.333% {
+		filter: coh-color-matrix(0.850, 0.000, 0.000, 0.000, 0.149, 0.000, 0.850, 0.000, 0.000, 0.149, 0.000, 0.000, 0.850, 0.000, 0.149, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+	66.666% {
+		filter: coh-color-matrix(0.850, 0.000, 0.000, 0.000, 0.149, 0.000, 0.850, 0.000, 0.000, 0.149, 0.000, 0.000, 0.850, 0.000, 0.149, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+	66.667% {
+		filter: coh-color-matrix(0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+	100% {
+		filter: coh-color-matrix(0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 0.850, 0.000, 0.000, 0.000, 0.000, 0.000, 1.000, 0.000);
+	}
+}
+@keyframes animationFrames259 {
+	0.000% {
+		opacity:1.000;
+	}
+	33.332% {
+		opacity:1.000;
+	}
+	33.333% {
+		opacity:0.000;
+	}
+	100% {
+		opacity:0.000;
+	}
+}
+@keyframes animationFrames260 {
+	0.000% {
+		opacity:0.000;
+	}
+	33.332% {
+		opacity:0.000;
+	}
+	33.333% {
+		opacity:1.000;
+	}
+	66.666% {
+		opacity:1.000;
+	}
+	66.667% {
+		opacity:0.000;
+	}
+	100% {
+		opacity:0.000;
+	}
+}
+@keyframes animationFrames261 {
+	0.000% {
+		opacity:0.000;
+	}
+	66.666% {
+		opacity:0.000;
+	}
+	66.667% {
+		opacity:1.000;
+	}
+	100% {
+		opacity:1.000;
+	}
+}

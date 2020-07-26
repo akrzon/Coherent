@@ -1,0 +1,290 @@
+/*
+This file is part of Cohtml, modern user interface library for
+games. Release $RELEASE$. Build $VERSION$ for $LICENSEE$.
+
+Copyright (c) 2012-2018 Coherent Labs AD and/or its licensors. All
+rights reserved in all media.
+
+The coded instructions, statements, computer programs, and/or related
+material (collectively the "Data") in these files contain confidential
+and unpublished information proprietary Coherent Labs and/or its
+licensors, which is protected by United States of America federal
+copyright law and by international treaties.
+
+This software or source code is supplied under the terms of a license
+agreement and nondisclosure agreement with Coherent Labs Limited and may
+not be copied, disclosed, or exploited except in accordance with the
+terms of that agreement. The Data may not be disclosed or distributed to
+third parties, in whole or in part, without the prior written consent of
+Coherent Labs Limited.
+
+COHERENT LABS MAKES NO REPRESENTATION ABOUT THE SUITABILITY OF THIS
+SOURCE CODE FOR ANY PURPOSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT
+HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER, ITS AFFILIATES,
+PARENT COMPANIES, LICENSORS, SUPPLIERS, OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OR PERFORMANCE OF THIS SOFTWARE OR SOURCE CODE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+*/
+#pragma once
+
+#define COHERENT_VK_BACK           0x08
+#define COHERENT_VK_TAB            0x09
+
+#define COHERENT_VK_CLEAR          0x0C
+#define COHERENT_VK_RETURN         0x0D
+
+#define COHERENT_VK_SHIFT          0x10
+#define COHERENT_VK_CONTROL        0x11
+#define COHERENT_VK_MENU           0x12
+#define COHERENT_VK_PAUSE          0x13
+#define COHERENT_VK_CAPITAL        0x14
+
+#define COHERENT_VK_ESCAPE         0x1B
+
+#define COHERENT_VK_SPACE          0x20
+#define COHERENT_VK_PRIOR          0x21
+#define COHERENT_VK_NEXT           0x22
+#define COHERENT_VK_END            0x23
+#define COHERENT_VK_HOME           0x24
+#define COHERENT_VK_LEFT           0x25
+#define COHERENT_VK_UP             0x26
+#define COHERENT_VK_RIGHT          0x27
+#define COHERENT_VK_DOWN           0x28
+#define COHERENT_VK_SELECT         0x29
+#define COHERENT_VK_PRINT          0x2A
+#define COHERENT_VK_EXECUTE        0x2B
+#define COHERENT_VK_SNAPSHOT       0x2C
+#define COHERENT_VK_INSERT         0x2D
+#define COHERENT_VK_DELETE         0x2E
+#define COHERENT_VK_HELP           0x2F
+
+#define COHERENT_VK_0              0x30
+#define COHERENT_VK_1              0x31
+#define COHERENT_VK_2              0x32
+#define COHERENT_VK_3              0x33
+#define COHERENT_VK_4              0x34
+#define COHERENT_VK_5              0x35
+#define COHERENT_VK_6              0x36
+#define COHERENT_VK_7              0x37
+#define COHERENT_VK_8              0x38
+#define COHERENT_VK_9              0x39
+
+#define COHERENT_VK_A              0x41
+#define COHERENT_VK_B              0x42
+#define COHERENT_VK_C              0x43
+#define COHERENT_VK_D              0x44
+#define COHERENT_VK_E              0x45
+#define COHERENT_VK_F              0x46
+#define COHERENT_VK_G              0x47
+#define COHERENT_VK_H              0x48
+#define COHERENT_VK_I              0x49
+#define COHERENT_VK_J              0x4A
+#define COHERENT_VK_K              0x4B
+#define COHERENT_VK_L              0x4C
+#define COHERENT_VK_M              0x4D
+#define COHERENT_VK_N              0x4E
+#define COHERENT_VK_O              0x4F
+#define COHERENT_VK_P              0x50
+#define COHERENT_VK_Q              0x51
+#define COHERENT_VK_R              0x52
+#define COHERENT_VK_S              0x53
+#define COHERENT_VK_T              0x54
+#define COHERENT_VK_U              0x55
+#define COHERENT_VK_V              0x56
+#define COHERENT_VK_W              0x57
+#define COHERENT_VK_X              0x58
+#define COHERENT_VK_Y              0x59
+#define COHERENT_VK_Z              0x5A
+
+#define COHERENT_VK_LWIN           0x5B
+#define COHERENT_VK_RWIN           0x5C
+#define COHERENT_VK_APPS           0x5D
+
+#define COHERENT_VK_SLEEP          0x5F
+
+#define COHERENT_VK_NUMPAD0        0x60
+#define COHERENT_VK_NUMPAD1        0x61
+#define COHERENT_VK_NUMPAD2        0x62
+#define COHERENT_VK_NUMPAD3        0x63
+#define COHERENT_VK_NUMPAD4        0x64
+#define COHERENT_VK_NUMPAD5        0x65
+#define COHERENT_VK_NUMPAD6        0x66
+#define COHERENT_VK_NUMPAD7        0x67
+#define COHERENT_VK_NUMPAD8        0x68
+#define COHERENT_VK_NUMPAD9        0x69
+#define COHERENT_VK_MULTIPLY       0x6A
+#define COHERENT_VK_ADD            0x6B
+#define COHERENT_VK_SEPARATOR      0x6C
+#define COHERENT_VK_SUBTRACT       0x6D
+#define COHERENT_VK_DECIMAL        0x6E
+#define COHERENT_VK_DIVIDE         0x6F
+#define COHERENT_VK_F1             0x70
+#define COHERENT_VK_F2             0x71
+#define COHERENT_VK_F3             0x72
+#define COHERENT_VK_F4             0x73
+#define COHERENT_VK_F5             0x74
+#define COHERENT_VK_F6             0x75
+#define COHERENT_VK_F7             0x76
+#define COHERENT_VK_F8             0x77
+#define COHERENT_VK_F9             0x78
+#define COHERENT_VK_F10            0x79
+#define COHERENT_VK_F11            0x7A
+#define COHERENT_VK_F12            0x7B
+#define COHERENT_VK_F13            0x7C
+#define COHERENT_VK_F14            0x7D
+#define COHERENT_VK_F15            0x7E
+#define COHERENT_VK_F16            0x7F
+#define COHERENT_VK_F17            0x80
+#define COHERENT_VK_F18            0x81
+#define COHERENT_VK_F19            0x82
+#define COHERENT_VK_F20            0x83
+#define COHERENT_VK_F21            0x84
+#define COHERENT_VK_F22            0x85
+#define COHERENT_VK_F23            0x86
+#define COHERENT_VK_F24            0x87
+
+#define COHERENT_VK_NUMLOCK        0x90
+#define COHERENT_VK_SCROLL         0x91
+
+#define COHERENT_VK_OEM_1          0xBA  // ';:' for US
+#define COHERENT_VK_OEM_PLUS       0xBB
+#define COHERENT_VK_OEM_COMMA      0xBC
+#define COHERENT_VK_OEM_MINUS      0xBD
+#define COHERENT_VK_OEM_PERIOD     0xBE
+#define COHERENT_VK_OEM_2          0xBF  // '/?' for US
+#define COHERENT_VK_OEM_3          0xC0  // '`~' for US
+#define COHERENT_VK_OEM_4          0xDB  //  '[{' for US
+#define COHERENT_VK_OEM_5          0xDC  //  '\|' for US
+#define COHERENT_VK_OEM_6          0xDD  //  ']}' for US
+#define COHERENT_VK_OEM_7          0xDE  //  ''"' for US
+#define COHERENT_VK_OEM_8          0xDF
+
+#define FKEY_MACRO_ITERATOR(ITERATOR_FUNC) \
+	ITERATOR_FUNC(LeftMouseButton, 0) \
+	ITERATOR_FUNC(RightMouseButton, 0) \
+	ITERATOR_FUNC(MiddleMouseButton, 0) \
+	ITERATOR_FUNC(ThumbMouseButton, 0) \
+	ITERATOR_FUNC(ThumbMouseButton2, 0) \
+	\
+	ITERATOR_FUNC(BackSpace, COHERENT_VK_BACK) \
+	ITERATOR_FUNC(Tab, COHERENT_VK_TAB) \
+	ITERATOR_FUNC(Enter, COHERENT_VK_RETURN) \
+	ITERATOR_FUNC(Pause, COHERENT_VK_PAUSE) \
+	\
+	ITERATOR_FUNC(CapsLock, COHERENT_VK_CAPITAL) \
+	ITERATOR_FUNC(Escape, COHERENT_VK_ESCAPE) \
+	ITERATOR_FUNC(SpaceBar, COHERENT_VK_SPACE) \
+	ITERATOR_FUNC(PageUp, COHERENT_VK_PRIOR) \
+	ITERATOR_FUNC(PageDown, COHERENT_VK_NEXT) \
+	ITERATOR_FUNC(End, COHERENT_VK_END) \
+	ITERATOR_FUNC(Home, COHERENT_VK_HOME) \
+	\
+	ITERATOR_FUNC(Left, COHERENT_VK_LEFT) \
+	ITERATOR_FUNC(Up, COHERENT_VK_UP) \
+	ITERATOR_FUNC(Right, COHERENT_VK_RIGHT) \
+	ITERATOR_FUNC(Down, COHERENT_VK_DOWN) \
+	\
+	ITERATOR_FUNC(Insert, COHERENT_VK_INSERT) \
+	ITERATOR_FUNC(Delete, COHERENT_VK_DELETE) \
+	\
+	ITERATOR_FUNC(Zero, COHERENT_VK_0) \
+	ITERATOR_FUNC(One, COHERENT_VK_1) \
+	ITERATOR_FUNC(Two, COHERENT_VK_2) \
+	ITERATOR_FUNC(Three, COHERENT_VK_3) \
+	ITERATOR_FUNC(Four, COHERENT_VK_4) \
+	ITERATOR_FUNC(Five, COHERENT_VK_5) \
+	ITERATOR_FUNC(Six, COHERENT_VK_6) \
+	ITERATOR_FUNC(Seven, COHERENT_VK_7) \
+	ITERATOR_FUNC(Eight, COHERENT_VK_8) \
+	ITERATOR_FUNC(Nine, COHERENT_VK_9) \
+	\
+	ITERATOR_FUNC(A, COHERENT_VK_A) \
+	ITERATOR_FUNC(B, COHERENT_VK_B) \
+	ITERATOR_FUNC(C, COHERENT_VK_C) \
+	ITERATOR_FUNC(D, COHERENT_VK_D) \
+	ITERATOR_FUNC(E, COHERENT_VK_E) \
+	ITERATOR_FUNC(F, COHERENT_VK_F) \
+	ITERATOR_FUNC(G, COHERENT_VK_G) \
+	ITERATOR_FUNC(H, COHERENT_VK_H) \
+	ITERATOR_FUNC(I, COHERENT_VK_I) \
+	ITERATOR_FUNC(J, COHERENT_VK_J) \
+	ITERATOR_FUNC(K, COHERENT_VK_K) \
+	ITERATOR_FUNC(L, COHERENT_VK_L) \
+	ITERATOR_FUNC(M, COHERENT_VK_M) \
+	ITERATOR_FUNC(N, COHERENT_VK_N) \
+	ITERATOR_FUNC(O, COHERENT_VK_O) \
+	ITERATOR_FUNC(P, COHERENT_VK_P) \
+	ITERATOR_FUNC(Q, COHERENT_VK_Q) \
+	ITERATOR_FUNC(R, COHERENT_VK_R) \
+	ITERATOR_FUNC(S, COHERENT_VK_S) \
+	ITERATOR_FUNC(T, COHERENT_VK_T) \
+	ITERATOR_FUNC(U, COHERENT_VK_U) \
+	ITERATOR_FUNC(V, COHERENT_VK_V) \
+	ITERATOR_FUNC(W, COHERENT_VK_W) \
+	ITERATOR_FUNC(X, COHERENT_VK_X) \
+	ITERATOR_FUNC(Y, COHERENT_VK_Y) \
+	ITERATOR_FUNC(Z, COHERENT_VK_Z) \
+	\
+	ITERATOR_FUNC(NumPadZero, COHERENT_VK_NUMPAD0) \
+	ITERATOR_FUNC(NumPadOne, COHERENT_VK_NUMPAD1) \
+	ITERATOR_FUNC(NumPadTwo, COHERENT_VK_NUMPAD2) \
+	ITERATOR_FUNC(NumPadThree, COHERENT_VK_NUMPAD3) \
+	ITERATOR_FUNC(NumPadFour, COHERENT_VK_NUMPAD4) \
+	ITERATOR_FUNC(NumPadFive, COHERENT_VK_NUMPAD5) \
+	ITERATOR_FUNC(NumPadSix, COHERENT_VK_NUMPAD6) \
+	ITERATOR_FUNC(NumPadSeven, COHERENT_VK_NUMPAD7) \
+	ITERATOR_FUNC(NumPadEight, COHERENT_VK_NUMPAD8) \
+	ITERATOR_FUNC(NumPadNine, COHERENT_VK_NUMPAD9) \
+	\
+	ITERATOR_FUNC(Multiply, COHERENT_VK_MULTIPLY) \
+	ITERATOR_FUNC(Add, COHERENT_VK_ADD) \
+	ITERATOR_FUNC(Subtract, COHERENT_VK_SUBTRACT) \
+	ITERATOR_FUNC(Decimal, COHERENT_VK_DECIMAL) \
+	ITERATOR_FUNC(Divide, COHERENT_VK_DIVIDE) \
+	\
+	ITERATOR_FUNC(F1, COHERENT_VK_F1) \
+	ITERATOR_FUNC(F2, COHERENT_VK_F2) \
+	ITERATOR_FUNC(F3, COHERENT_VK_F3) \
+	ITERATOR_FUNC(F4, COHERENT_VK_F4) \
+	ITERATOR_FUNC(F5, COHERENT_VK_F5) \
+	ITERATOR_FUNC(F6, COHERENT_VK_F6) \
+	ITERATOR_FUNC(F7, COHERENT_VK_F7) \
+	ITERATOR_FUNC(F8, COHERENT_VK_F8) \
+	ITERATOR_FUNC(F9, COHERENT_VK_F9) \
+	ITERATOR_FUNC(F10, COHERENT_VK_F10) \
+	ITERATOR_FUNC(F11, COHERENT_VK_F11) \
+	ITERATOR_FUNC(F12, COHERENT_VK_F12) \
+	\
+	ITERATOR_FUNC(NumLock, COHERENT_VK_NUMLOCK) \
+	\
+	ITERATOR_FUNC(ScrollLock, COHERENT_VK_SCROLL) \
+	\
+	ITERATOR_FUNC(LeftShift, COHERENT_VK_SHIFT) \
+	ITERATOR_FUNC(RightShift, COHERENT_VK_SHIFT) \
+	ITERATOR_FUNC(LeftControl, COHERENT_VK_CONTROL) \
+	ITERATOR_FUNC(RightControl, COHERENT_VK_CONTROL) \
+	ITERATOR_FUNC(LeftAlt, COHERENT_VK_MENU) \
+	ITERATOR_FUNC(RightAlt, COHERENT_VK_MENU) \
+	ITERATOR_FUNC(LeftCommand, COHERENT_VK_LWIN) \
+	ITERATOR_FUNC(RightCommand, COHERENT_VK_RWIN) \
+	\
+	ITERATOR_FUNC(Semicolon, COHERENT_VK_OEM_1) \
+	ITERATOR_FUNC(Equals, COHERENT_VK_OEM_PLUS) \
+	ITERATOR_FUNC(Comma, COHERENT_VK_OEM_COMMA) \
+	ITERATOR_FUNC(Underscore, COHERENT_VK_OEM_MINUS) \
+	ITERATOR_FUNC(Period, COHERENT_VK_OEM_PERIOD) \
+	ITERATOR_FUNC(Slash, COHERENT_VK_OEM_2) \
+	ITERATOR_FUNC(Tilde, COHERENT_VK_OEM_3) \
+	ITERATOR_FUNC(LeftBracket, COHERENT_VK_OEM_4) \
+	ITERATOR_FUNC(Backslash, COHERENT_VK_OEM_5) \
+	ITERATOR_FUNC(RightBracket, COHERENT_VK_OEM_6) \
+	ITERATOR_FUNC(Quote, COHERENT_VK_OEM_7) \
+

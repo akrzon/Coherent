@@ -1,0 +1,1 @@
+"use strict";function dispatch(t,e){document.body.dispatchEvent(new CustomEvent(t,{detail:e}))}Object.defineProperty(exports,"__esModule",{value:!0}),exports.dispatch=dispatch;
