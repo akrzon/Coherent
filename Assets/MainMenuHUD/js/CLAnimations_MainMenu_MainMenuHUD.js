@@ -1,0 +1,1 @@
+const InstanceAnimations = {"Movieclips-Button":{"Labels":[{"Default":0},{"Highlighted":0.041666666666666664},{"Pressed":0.08333333333333333}]}};

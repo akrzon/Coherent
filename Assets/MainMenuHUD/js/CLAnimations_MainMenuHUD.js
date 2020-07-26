@@ -1,0 +1,1 @@
+const InstanceAnimations = {"global_animations":{"MainMenu":{"Buttons":[],"Background":[]}},"Movieclips-BtnText_mc":{"Warstwa_1":[]},"Movieclips-Button":{"Labels":[{"Default":0},{"Highlighted":0.041666666666666664},{"Pressed":0.08333333333333333}],"Text":[],"Background":[]},"Movieclips-ButtonsCollection":{"ButtonWrapper":[]}};

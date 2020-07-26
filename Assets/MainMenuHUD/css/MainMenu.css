@@ -1,0 +1,189 @@
+body {
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	background-color: rgba(255,255,255,0.000);
+}
+
+textarea,
+input {
+	border: none;
+}
+
+.layoutStyle44 {
+	width: 94.815vh;
+	height: 53.333vh;
+	transform-origin: 47.407vh 26.667vh;
+	z-index: 1;
+	transform: scale(1.875, 1.875);
+}
+.imageStyle45{
+	background-image: url("../img/Assets_MainMenuBg.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle42 {
+	position: absolute;
+	left: 41.481vh;
+	top: 23.333vh;
+}
+.layoutStyle39 {
+	width: 50.278vh;
+	height: 8.819vh;
+	transform-origin: 41.898vh 4.398vh;
+	z-index: 2;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	display: flex;
+}
+.positionStyle56 {
+	position: relative;
+	left: 123.484vh;
+	top: 57.995vh;
+}
+.layoutStyle33 {
+	width: 50.278vh;
+	height: 8.819vh;
+	transform-origin: 41.898vh 4.398vh;
+	z-index: 1;
+	display: block;
+}
+.positionStyle2 {
+	position: absolute;
+	left: 0.000vh;
+	top: 0.000vh;
+}
+.animationStyle51 {
+	animation-name: animationFrames63;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.layoutStyle15 {
+	width: 33.519vh;
+	height: 5.880vh;
+	transform-origin: 16.759vh 2.933vh;
+	z-index: 1;
+	transform: scale(1.500, 1.500);
+}
+.imageStyle16{
+	background-image: url("../img/Assets_MenuBtnBg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.positionStyle13 {
+	position: absolute;
+	left: 8.380vh;
+	top: 1.466vh;
+}
+.animationStyle52 {
+	animation-name: animationFrames64;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.imageStyle20{
+	background-image: url("../img/Assets_MenuBtnBg_h.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.animationStyle53 {
+	animation-name: animationFrames65;
+	animation-duration: 0.125s;
+	animation-timing-function: linear;
+	animation-play-state: paused;
+	animation-fill-mode: forwards;
+}
+.imageStyle24{
+	background-image: url("../img/Assets_MenuBtnBg_p.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.layoutStyle11 {
+	width: 30.093vh;
+	height: 4.630vh;
+	transform-origin: 23.935vh 2.083vh;
+	z-index: 2;
+	display: block;
+}
+.positionStyle27 {
+	position: absolute;
+	left: 14.907vh;
+	top: 2.178vh;
+}
+.visualStyle3 {
+	color:rgba(0,0,0,1.000);
+	font-size: 3.241vh;
+	font-family: "droidsansregular";
+	font-style: normal;
+	text-align: right;
+	white-space: pre;
+	user-select: none;
+}
+.layoutStyle1 {
+	width: 30.093vh;
+	height: 4.630vh;
+	transform-origin: 15.046vh 2.315vh;
+	z-index: 1;
+	margin-bottom: 0.093vh;
+	padding-left: 0.093vh;
+	padding-top: 0.093vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+@font-face {
+	src: url("../fonts/droidsans_regular_normal.ttf");
+	font-family: "droidsansregular";
+	font-style: normal;
+}
+@keyframes animationFrames63 {
+	0.000% {
+		opacity:1.000;
+	}
+	33.332% {
+		opacity:1.000;
+	}
+	33.333% {
+		opacity:0.000;
+	}
+	100% {
+		opacity:0.000;
+	}
+}
+@keyframes animationFrames64 {
+	0.000% {
+		opacity:0.000;
+	}
+	33.332% {
+		opacity:0.000;
+	}
+	33.333% {
+		opacity:1.000;
+	}
+	66.666% {
+		opacity:1.000;
+	}
+	66.667% {
+		opacity:0.000;
+	}
+	100% {
+		opacity:0.000;
+	}
+}
+@keyframes animationFrames65 {
+	0.000% {
+		opacity:0.000;
+	}
+	66.666% {
+		opacity:0.000;
+	}
+	66.667% {
+		opacity:1.000;
+	}
+	100% {
+		opacity:1.000;
+	}
+}
